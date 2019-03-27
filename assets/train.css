@@ -1,0 +1,26 @@
+#form{
+    background-color: peachpuff;
+    padding: 20px;
+    opacity: 0.9;
+}
+.table{
+    background-color: peachpuff;
+    padding: 20px;
+    opacity: 0.9;
+}
+tr{
+    border: 5px;
+    border-color: grey;
+}
+body{
+    background-image: url("http://getwallpapers.com/wallpaper/full/7/d/d/87639.jpg");
+    background-repeat: no-repeat;
+}
+.jumbotron-fluid{
+    background-color:orange;
+    opacity: 0.8;
+}
+.btn-primary{
+    background-color: grey;
+    border-color: gray;
+}
